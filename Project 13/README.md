@@ -1,5 +1,5 @@
 # Анализ рынка автомобилей Казахстана
-[ipynb(https://github.com/IrinaTF/Portfolio/blob/main/Project%2013/Авторынок%20Казахстана.ipynb)
+[ipynb](https://github.com/IrinaTF/Portfolio/blob/main/Project%2013/Авторынок%20Казахстана.ipynb)
 ## Описание проекта
 Цель работы - проанализировать автомобильный рынок Казахстана и автоцентр Mercur Auto.
 
