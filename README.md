@@ -14,3 +14,4 @@
 | 11    | [AB тестирование](https://github.com/Irina-TF/Portfolio/blob/main/Project11/README.md)    | Проведение оценки результата A/B теста, связанных с внедрением улучшенной рекомендательной системы     | pandas, numpy, datetime, scipy, matplotlib.pyplot, plotly, seaborn, math    |
 | 12    | [Исследование рынка вакансий для аналитиков](https://github.com/Irina-TF/Portfolio/blob/main/Project%2012/RADME.md)   | Построение дашборда для анализа вакансий     | DataLens, ClikHouse    |
 | 13    | [Анализ рынка автомобилей Казахстана](https://github.com/Irina-TF/Portfolio/blob/main/Project%2013/README.md)   | Анализ авторынка Казахстана и компании Mercur Auto     | python, pandas, datetime, numpy, matplotlib.pyplot, seaborn   |
+| 14   | [Благотворительный фонд "Арифметика добра"](https://github.com/Irina-TF/Portfolio/tree/main/Project%2014)   | Построение дашборда для компании, который поможет анализировать результаты работы фонда   | DataLens   |
